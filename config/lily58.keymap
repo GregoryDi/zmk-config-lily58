@@ -46,7 +46,7 @@
 &bt BT_CLR       &bt BT_SEL 0      &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                    &kp N7        &kp NUMBER_8  &kp NUMBER_9  &kp MINUS       &kp PAGE_UP      &kp EQUAL
 &kp PRINTSCREEN  &trans            &trans        &trans        &trans        &trans                          &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp PLUS        &kp PAGE_DOWN    &trans
 &trans           &trans            &trans        &trans        &trans        &trans                          &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp LPAR        &kp RPAR         &kp TILDE
-&trans           &ext_power EP_ON  &trans        &trans        &trans        &trans        &trans    &trans  &kp N0        &kp EQUAL     &kp PLUS      &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp PIPE
+&trans           &studio_unlock  &trans        &trans        &trans        &trans        &trans    &trans  &kp N0        &kp EQUAL     &kp PLUS      &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp PIPE
                                                  &trans        &trans        &trans        &trans    &trans  &trans        &trans        &trans
             >;
 
